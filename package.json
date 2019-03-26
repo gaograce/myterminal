@@ -16,7 +16,7 @@
     "xterm": "3.10.0"
   },
   "devDependencies": {
-    "electron": "^2.0.9",
+    "electron": "4.0.1",
     "electron-debug": "^2.0.0",
     "electron-packager": "^13.0.1",
     "electron-rebuild": "^1.8.2"
